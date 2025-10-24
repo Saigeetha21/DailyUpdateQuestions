@@ -2,6 +2,7 @@ package feb14.com;
 
 interface dog{
 	void eating();
+	//dog method is created 
 }
 
 interface cow{
